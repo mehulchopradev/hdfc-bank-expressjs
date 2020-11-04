@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "book 1",
+            "price": 900,
+            "pages": 1000
+        },
+        {
+            "id": 2,
+            "title": "book 2",
+            "price": 450,
+            "pages": 1300
+        },
+        {
+            "id": 3,
+            "title": "book 3",
+            "price": 780,
+            "pages": 3400
+        },
+        {
+            "id": 4,
+            "title": "book 4",
+            "price": 900,
+            "pages": 600
+        }
+    ]
+}
